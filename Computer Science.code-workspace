@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "sp21-csc205ab-classroom-malik214",
+			"path": "CSC205\\sp21-csc205ab-classroom-malik214"
+		}
+	],
+	"settings": {
+		"java.dependency.packagePresentation": "hierarchical",
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.project.sourcePaths": [
+			"CSC230",
+			"CSC110",
+			"CSC205"
+		]
+	}
+}
