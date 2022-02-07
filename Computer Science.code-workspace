@@ -15,6 +15,10 @@
 			"CSC230",
 			"CSC110",
 			"CSC205"
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Program Files (x86)\\junit-platform-console-standalone-1.7.0-M1.jar"
 		]
 	}
 }
